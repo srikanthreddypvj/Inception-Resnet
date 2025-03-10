@@ -1,2 +1,3 @@
 # Inception-Resnet
 
+CNN
