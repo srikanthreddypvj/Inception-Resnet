@@ -1,3 +1,3 @@
 # Inception-Resnet
 
-CNN Model
+CNN Model to detect the
