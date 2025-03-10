@@ -1,3 +1,3 @@
 # Inception-Resnet
 
-CNN
+CNN Model
