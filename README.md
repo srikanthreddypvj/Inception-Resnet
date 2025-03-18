@@ -1,3 +1,3 @@
 # Inception-Resnet
 
-CNN Model to detect 
+CNN Model to detect the objects
